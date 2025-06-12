@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumeet
-- 👀 I’m interested in Java/Python/Html/Css/JavaScript/MySQL/C/C++/C#/Asp.NET
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me @crossheart2307@gmail.com
